@@ -23,7 +23,7 @@ La planificación inicial fue ajustándose de acuerdo con el comportamiento real
 
 El desarrollo completo del caso, desde la interpretación del plano hasta la ejecución y las conclusiones obtenidas en taller, se encuentra documentado aquí:
 
-**[Ver informe técnico – Del plano al taller]([./Del_Plano_al_Taller_LinkedIn_Planificación_Final.pdf](https://github.com/amenag-star/mecanizado_cuna_SAE-4340/blob/main/Del_Plano_al_Taller_LinkedIn_Planificacion_Final.pdf))**
+**[Ver informe técnico – Del plano al taller](https://github.com/amenag-star/mecanizado_cuna_SAE-4340/blob/main/Del_Plano_al_Taller_LinkedIn_Planificacion_Final.pdf)**
 
 ## Material
 
