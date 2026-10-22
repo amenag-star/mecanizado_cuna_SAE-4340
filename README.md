@@ -25,6 +25,10 @@ El desarrollo completo del caso, desde la interpretación del plano hasta la eje
 
 **[Ver informe técnico – Del plano al taller](https://github.com/amenag-star/mecanizado_cuna_SAE-4340/blob/main/Del_Plano_al_Taller_LinkedIn_Planificacion_Final.pdf)**
 
+## Video del proceso de mecanizado
+
+[▶ Ver video: Del plano al taller](./Del_Plano_al_Taller_LinkedIn_Video_Final.mp4)
+
 ## Material
 
 **SAE 4340**
